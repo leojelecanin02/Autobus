@@ -18,4 +18,19 @@ public class Autobus
     {
         return anhänger;
     }
+    
+    public void setKennzeichen(String newKennzeichen)
+    {
+        kennzeichen = newKennzeichen;
+    }
+    
+    public void setSitzplätze(int newSitzplätze)
+    {
+        sitzplätze = newSitzplätze;
+    }
+    
+    public void setAnhänger(boolean newAnhänger)
+    {
+        anhänger = newAnhänger;
+    }
 }
