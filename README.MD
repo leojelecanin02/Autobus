@@ -1,3 +1,1 @@
-+--------------------------+
-|         Autobus          |
-+--------------------------+
+Autobus public class hinzugefügt
